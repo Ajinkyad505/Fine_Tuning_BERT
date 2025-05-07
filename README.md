@@ -24,6 +24,7 @@ To run this notebook, you'll need to install the following libraries:
 1. **Google Colab Integration**: The notebook is set up to run in Google Colab. It automatically mounts your Google Drive to access the dataset. If you are not using Colab, you can adjust the paths accordingly.
 2. **Data Preprocessing**: After loading the dataset, the script cleans it by removing entries with missing complaint narratives and samples 20,000 entries.
 3. **Fine-Tuning**: Fine-tune the BERT model using the provided setup. The model is optimized using AdamW with a learning rate scheduler for better convergence.
+4. Data file Link - https://drive.google.com/file/d/1GUaEWDyivpS9dDTBCiR0bniN_35zaBpk/view?usp=sharing
 
 ## How to Use:
 1. Clone this repository to your local machine or open it in Google Colab.
